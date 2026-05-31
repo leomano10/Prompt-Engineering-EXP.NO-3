@@ -64,18 +64,14 @@ Prompt Example:
 Compare Solar Energy and Wind Energy in a tabular format with the columns: Feature, Solar Energy, Wind Energy.
 
 Expected Response:
-+----------------------+----------------------+----------------------+
-| Feature              | Solar Energy         | Wind Energy          |
-+----------------------+----------------------+----------------------+
-| Source               | Sunlight             | Wind                 |
-+----------------------+----------------------+----------------------+
-| Equipment            | Solar panels         | Wind turbines        |
-+----------------------+----------------------+----------------------+
-| Availability         | Works best in sunny  | Works best in windy  |
-|                      | areas                | regions              |
-+----------------------+----------------------+----------------------+
-| Environmental Impact | Clean energy source  | Clean energy source  |
-+----------------------+----------------------+----------------------+
+
+Feature                 Solar Energy              Wind Energy
+------------------------------------------------------------------
+Source                  Sunlight                  Wind
+Equipment               Solar panels              Wind turbines
+Availability            Works best in sunny       Works best in windy
+                         areas                     regions
+Environmental Impact    Clean energy source       Clean energy source
 
 
 
