@@ -43,5 +43,135 @@ Missing Word Prompting:
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
 OUTPUT:
+rompt Ex 3 
 
+ 
+
+ 
+
+Straightforward Prompt 
+
+A straightforward prompt directly asks the model for information. 
+
+ 
+
+Prompt Example: 
+
+Describe the importance of water conservation. 
+
+ 
+
+Expected Response: 
+
+Water conservation is important because it helps preserve freshwater resources, reduces water shortages, and protects the environment. It also ensures sustainable water availability for future generations. 
+
+ 
+
+ 
+
+ 
+
+Tabular Format Prompting 
+
+This prompt instructs the model to present the answer in a table format. 
+
+ 
+
+Prompt Example: 
+
+Compare Solar Energy and Wind Energy in a tabular format with the columns: Feature, Solar Energy, Wind Energy. 
+
+ 
+
+Expected Response: 
+
+ 
+
+Feature 
+
+Solar Energy 
+
+Wind Energy 
+
+Source 
+
+Sunlight 
+
+Wind 
+
+Equipment 
+
+Solar panels 
+
+Wind turbines 
+
+Availability 
+
+Works best in sunny areas 
+
+Works best in windy regions 
+
+Environmental Impact 
+
+Clean energy source 
+
+Clean energy source 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Preceding Question Prompting 
+
+This method uses guiding questions before the main question to lead the model to the final answer. 
+
+ 
+
+Prompt Example: 
+
+What is the Internet? 
+
+How do people use the Internet in daily life? 
+
+Based on the above, explain the role of the Internet in modern communication. 
+
+ 
+
+Expected Response: 
+
+The Internet is a global network that connects computers and devices. People use it for communication, education, business, and entertainment. It plays a major role in modern communication by enabling emails, video calls, social media, and instant messaging. 
+
+ 
+
+ 
+
+Missing Word Prompting 
+
+In this prompt, the model fills in missing words in a sentence. 
+
+ 
+
+Prompt Example: 
+
+Fill in the blanks: 
+
+The capital of India is 	. 
+
+The largest planet in the solar system is 		. The chemical formula of water is 	. 
+
+ 
+
+Expected Answers: 
+
+New Delhi 
+
+Jupiter 
+
+H₂O 
 RESULT: 
