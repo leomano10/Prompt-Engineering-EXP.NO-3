@@ -126,8 +126,6 @@ SUMMARY
 4. Missing Word Prompting
    - Fills in missing words or blanks.
  
-
- 
-
-H₂O 
 RESULT: 
+
+Thus, the various prompting techniques were implemented and the expected outputs were obtained successfully.
