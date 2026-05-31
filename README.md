@@ -54,6 +54,11 @@ Describe the importance of water conservation.
 Expected Response:
 Water conservation is important because it helps preserve freshwater resources, reduces water shortages, and protects the environment. It also ensures sustainable water availability for future generations.
 
+Prompt:
+Explain the importance of trees.
+
+Response:
+Trees are important because they produce oxygen, absorb carbon dioxide, prevent soil erosion, provide habitat for wildlife, and help maintain ecological balance.
 
 2. TABULAR FORMAT PROMPTING
 
@@ -78,8 +83,25 @@ Expected Response:
 | Environmental Impact | Clean energy source  | Clean energy source  |
 +----------------------+----------------------+----------------------+
 ```
+Prompt:
+Compare Laptop and Desktop in a tabular format with the columns: Feature, Laptop, Desktop.
 
-
+Response:
+```
++-----------------+----------------------------+--------------------------+
+| Feature         | Laptop                     | Desktop                  |
++-----------------+----------------------------+--------------------------+
+| Portability     | Easy to carry              | Not portable             |
++-----------------+----------------------------+--------------------------+
+| Size            | Compact                    | Larger                   |
++-----------------+----------------------------+--------------------------+
+| Power Usage     | Less power consumption     | More power consumption   |
++-----------------+----------------------------+--------------------------+
+| Upgrade Options | Limited                    | Easy to upgrade          |
++-----------------+----------------------------+--------------------------+
+| Cost            | Usually expensive          | Usually less expensive   |
++-----------------+----------------------------+--------------------------+
+```
 3. PRECEDING QUESTION PROMPTING
 
 Definition:
@@ -93,6 +115,17 @@ Based on the above, explain the role of the Internet in modern communication.
 Expected Response:
 The Internet is a global network that connects computers and devices. People use it for communication, education, business, and entertainment. It plays a major role in modern communication by enabling emails, video calls, social media, and instant messaging.
 
+Prompt:
+
+What is a computer?
+
+What are the common uses of a computer?
+
+Based on the above, explain the importance of computers in daily life.
+
+Response:
+
+A computer is an electronic device that processes and stores data. It is commonly used for education, communication, business, entertainment, and research. Computers are important in daily life because they help people perform tasks quickly and efficiently, improving productivity and access to information.
 
 4. MISSING WORD PROMPTING
 
